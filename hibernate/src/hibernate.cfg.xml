@@ -24,6 +24,8 @@
         <property name="hbm2ddl.auto">update</property>
         
   		<mapping resource="tw/ming/model/Student.hbm.xml"/>
+  		
+  		<mapping class="tw.ming.model.teacher"/>
 
     </session-factory>
 

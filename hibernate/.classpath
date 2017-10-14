@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="hibernate4/jboss-logging-annotations-1.2.0.Beta1.jar"/>
 	<classpathentry kind="lib" path="hibernate4/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
 	<classpathentry kind="lib" path="mysql/mysql-connector-java-3.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="junit4/junit4.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
